@@ -46,12 +46,13 @@ Atualmente cursando o 1º período de Ciência da Computação na UNICID. Tenho 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
  
 
 ---
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
- 
+
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
