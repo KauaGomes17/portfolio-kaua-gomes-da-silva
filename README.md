@@ -48,6 +48,11 @@ Atualmente cursando o 1º período de Ciência da Computação na UNICID. Tenho 
 | **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** | Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | **Modularização** | Planejar a arquitetura de um software de forma unplugged, ´priorizando a lógica sobre a sintaxe. | [Ver Projeto](./projeto-modularização/) |
+| **Traduzindo Lógica para Python** | Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+
+
  
 
 ---
