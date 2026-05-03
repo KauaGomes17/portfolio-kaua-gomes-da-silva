@@ -1,2 +1,52 @@
-🕵️ Sistema de Auditoria de Dados Financeiros📝 Descrição do ProjetoEste projeto consiste em um algoritmo de auditoria automatizada desenvolvido para monitorar transações de vendas e identificar possíveis anomalias financeiras. O objetivo principal é automatizar a detecção de discrepâncias e garantir que os valores transacionados estejam dentro dos parâmetros de segurança da organização.O sistema processa entradas de vendas, calcula médias e aplica regras de negócio para sinalizar registros que necessitam de revisão manual ou que podem colocar o sistema em estado de quarentena. Este projeto demonstra conceitos fundamentais de Lógica de Programação, manipulação de escopo global e tratamento de tipos de dados em Python.🚀 Funcionalidades PrincipaisCálculo de Média Dinâmica: Avalia o desempenho de um conjunto de vendas.Detecção de Discrepâncias: Identifica automaticamente se uma venda isolada é 5x superior à média (outlier).Gestão de Quarentena: Bloqueio lógico caso a média ultrapasse o limite de segurança estabelecido.Atualização de Parâmetros em Tempo Real: Permite ao auditor ajustar o LIMITE_SEGURANCA durante a execução caso identifique uma mudança no padrão de mercado.🛠️ Tecnologias UtilizadasLinguagem: Python 3.xAmbiente de Desenvolvimento: Google Colab / Jupyter NotebookConceitos Aplicados: Casting de tipos, Estruturas de Repetição (for), Condicionais compostas e Manipulação de variáveis globais.📊 Fluxo de AuditoriaO algoritmo segue uma lógica de validação em três camadas:Validação de Tipo: Garante que os inputs sejam tratados como números de ponto flutuante ($float$).Análise de Risco: Compara a média com o LIMITE_SEGURANCA (padrão: R$ 10.000,00).Investigação Individual: Varre o array de vendas para encontrar valores desproporcionais que exijam Revisão Manual.🔧 Como ExecutarCertifique-se de ter o Python instalado ou utilize o Google Colab.Baixe o arquivo projeto_algoritmo_de_auditoria_de_dados.py.Execute o script:Bashpython projeto_algoritmo_de_auditoria_de_dados.py
-Insira os valores das três vendas solicitadas no terminal para visualizar o relatório de auditoria.Voltar ao início
+# 🛡️ Algoritmo de Auditoria de Dados
+
+## 📝 Descrição do Projeto
+Este projeto consiste em um sistema em Python desenvolvido para automatizar processos de **compliance financeiro** e **auditoria de dados de vendas**. O script realiza a captura e o tratamento de dados de transações, calcula métricas operacionais e aplica regras de negócio rigorosas para identificar discrepâncias e mitigar riscos de segurança.
+
+O sistema analisa os valores inseridos, calcula médias e valida se os registros estão em conformidade com políticas de segurança estabelecidas, disparando alertas de quarentena ou revisão manual caso identifique anomalias.
+
+---
+
+## 🚀 Funcionalidades
+* **Tratamento e Conversão de Tipos:** Conversão explícita (*casting*) das entradas do usuário para ponto flutuante (`float`) para garantir a precisão dos cálculos financeiros.
+* **Cálculo de Métrica:** Processamento da média aritmética das vendas registradas.
+* **Detecção de Anomalias:** * **Quarentena:** Bloqueio preventivo se a média das vendas ultrapassar o limite de segurança configurado.
+  * **Revisão Manual:** Identificação de picos de faturamento individuais que sejam **5 vezes maiores** que a média geral das vendas.
+* **Gestão Dinâmica de Configurações:** Permite ao auditor alterar o limite de segurança em tempo de execução (`global`) caso uma transação legítima de alto valor seja detectada.
+
+---
+
+## 💻 Tecnologias Utilizadas
+* **Linguagem:** Python 3.10+
+* **Ambiente de Execução:** Terminal Python, Google Colab ou VS Code.
+
+---
+
+## 🔧 Como Executar o Projeto
+
+### Pré-requisitos
+* Ter o Python 3.10 ou superior instalado em sua máquina.
+
+### Passo a Passo
+
+1. **Clone este repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   cd seu-repositorio
+
+2. **Execute o script de auditoria:**
+   python projeto_algoritmo_de_auditoria_de_dados.py
+
+3. **Interaja com o console:**
+
+Insira os três valores de venda solicitados.
+
+O sistema exibirá a média e os alertas correspondentes.
+
+Caso alguma venda ultrapasse o limite de segurança, você terá a opção de atualizar o LIMITE_SEGURANCA diretamente no console.
+
+📁 **Estrutura do Arquivo**
+└── projeto_algoritmo_de_auditoria_de_dados.py  # Script principal de auditoria e compliance
+
+---
+[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
