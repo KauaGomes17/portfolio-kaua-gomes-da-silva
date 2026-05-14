@@ -60,4 +60,4 @@ Para elevar a maturidade do projeto (Cenário C), foram implementadas as seguint
     ```
 
 ---
-[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
+[Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
