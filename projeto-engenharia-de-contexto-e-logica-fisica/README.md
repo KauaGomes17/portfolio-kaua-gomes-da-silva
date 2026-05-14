@@ -40,4 +40,4 @@ Matemática Aplicada: Implementação de cálculos de penalização para índice
 
 Tratamento de Dados: Manipulação de listas de listas para representação de datasets ambientais.
 
-[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
+[Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
