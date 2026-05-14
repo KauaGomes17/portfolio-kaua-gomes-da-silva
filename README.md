@@ -51,6 +51,7 @@ Atualmente cursando o 1º período de Ciência da Computação na UNICID. Tenho 
 | **Traduzindo Lógica para Python** | Escrever o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+| **Sistema de Auditoria de Recursos Corporativos** |  Criar um script em Python que calcule o orçamento total da empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./sistema-de-auditoria-de-recursos-corporativos/) |
 
 
  
