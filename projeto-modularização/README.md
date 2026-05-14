@@ -59,4 +59,4 @@ A função `decompor_notas` segue o método sucessivo para garantir eficiência 
    python main.py
 
    ---
-[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
+[Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
