@@ -91,5 +91,6 @@ Performance: Implementação de monitoramento de tempo com precisão de microsse
 
 Flexibilidade: O uso de argumentos nomeados permite que a lógica de conversão de moeda seja injetada apenas quando necessário, sem quebrar a recursão base.
 
+
 ---
 [Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
