@@ -35,4 +35,4 @@ O sistema implementa validações críticas para garantir a integridade dos dado
 3. Execute qualquer um dos módulos individualmente:
 python simulador_poupanca.py
 
-[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
+[Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
