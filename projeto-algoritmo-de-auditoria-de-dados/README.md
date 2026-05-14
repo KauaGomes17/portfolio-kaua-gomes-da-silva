@@ -49,4 +49,4 @@ Caso alguma venda ultrapasse o limite de segurança, você terá a opção de at
 └── projeto_algoritmo_de_auditoria_de_dados.py  # Script principal de auditoria e compliance
 
 ---
-[Voltar ao início](https://github.com/KauaGomes17/portifolio-kaua-gomes-da-silva)
+[Voltar ao início](https://github.com/KauaGomes17/portfolio-kaua-gomes-da-silva)
